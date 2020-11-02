@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm a web developper.
+I'm working on things i like.
+I'm using some tools for this:
+* Languages
+  * Javascript
+  * Typescript
+  * SQL
+* FrameWorks
+  * Angular
+  * Express
+  
+
 <!--
 **Namy972/Namy972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
