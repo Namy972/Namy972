@@ -4,7 +4,7 @@ I'm a web developper.
 I'm working on things i like.
 I'm using some tools for this:
 * Languages
-  * Javascript
+  * Javascript ![Javascript Logo](/images/js.png)
   * Typescript
   * SQL
 * FrameWorks
