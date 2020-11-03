@@ -1,15 +1,11 @@
-### Hi there 👋
+### Hello there :space_invader:
 
-I'm a web developper.
-I'm working on things i like.
-I'm using some tools for this:
-* Languages
-  * Javascript
-  * Typescript
-  * SQL
-* FrameWorks
-  * Angular
-  * Express
+I'm a web developper, internet fan and game lover. 
+I'm looking to step up and invest on news projects.
+
+* :clipboard: I'm currently working on some side projects with Angular.
+* :mailbox_closed: You can reach me: adrien.bouissier@gmail.com or Linkedin: www.linkedin.com/in/bouissieradrien
+
   
 
 <!--
